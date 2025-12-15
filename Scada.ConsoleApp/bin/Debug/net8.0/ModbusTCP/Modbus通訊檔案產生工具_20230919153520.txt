@@ -1,0 +1,6 @@
+TypeID=30
+TypeName=PLC
+Nodedef(0)=40001,40005,40115,40097
+Nodescale(0)=FloatingPt@16.67,FloatingPt@16.67,FloatingPt@16.67,FloatingPt@16.67
+Nodename(0)=9F流量,9F流速,9F累積流量,9F信號傳輸比
+NodeUnit(0)=m3,m/s,m3,%

@@ -1,0 +1,6 @@
+TypeID=30
+TypeName=PA310
+Nodedef(0)=41039,41047,41048,41053,41093,41039,41047,41059,41083,41093
+Nodescale(0)=Integer64@1,UInteger64@1,105,105,105,1,1,105,105,105
+Nodename(0)=Integer64,I_avg,kW_total,o,kWh_total,Integer64,I_avg,kW_total,o,kWh_total
+NodeUnit(0)=V,A,kW,o,kWh,V,A,kW,o,kWh

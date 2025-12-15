@@ -1,0 +1,6 @@
+TypeID=5
+TypeName=FlowMeter_BCD¤À¬q.txt
+Nodedef(0)=41029,41030,41031,40773,40774,40775,40776,40776,40776,40776
+Nodescale(0)=197,197,197,197,197,197,197,197,197,197
+Nodename(0)=Flow rate,Flow volume,Flow velocity,,,,,,,
+NodeUnit(0)=LPM,m3,m/s,,,,,,,

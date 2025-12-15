@@ -1,0 +1,6 @@
+TypeID=30
+TypeName=FlowMeter
+Nodedef(0)=40777,40777,40777,40777,40777,40777,40777,40777,40777,40777
+Nodescale(0)=102,102,102,102,102,102,102,102,102,102
+Nodename(0)=ExtendForwardTotalizer,,,,,,,,,
+NodeUnit(0)=m3,,,,,,,,,

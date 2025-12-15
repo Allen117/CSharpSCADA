@@ -1,0 +1,2 @@
+ModbusAddress=40001,40009
+ModbusLength=3,5

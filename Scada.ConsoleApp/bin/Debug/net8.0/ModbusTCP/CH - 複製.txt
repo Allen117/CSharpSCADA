@@ -1,0 +1,6 @@
+TypeID=30
+TypeName=PLC
+Nodedef(0)=40001,40002
+Nodescale(0)=Integer32@1,UInteger32@1
+Nodename(0)=A ¾÷¬G»Ù,1
+NodeUnit(0)=1,1

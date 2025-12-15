@@ -1,0 +1,6 @@
+TypeID=30
+TypeName=PLC
+Nodedef(0)=2001
+Nodescale(0)=1
+Nodename(0)=A ¾÷¬G»Ù
+NodeUnit(0)=1

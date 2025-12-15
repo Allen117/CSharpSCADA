@@ -1,0 +1,77 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\A50388.ITRI\\Desktop\\iAUTO.SCADA\\Scada.Core\\Scada.Core.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\A50388.ITRI\\Desktop\\iAUTO.SCADA\\Scada.Core\\Scada.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\A50388.ITRI\\Desktop\\iAUTO.SCADA\\Scada.Core\\Scada.Core.csproj",
+        "projectName": "Scada.Core",
+        "projectPath": "C:\\Users\\A50388.ITRI\\Desktop\\iAUTO.SCADA\\Scada.Core\\Scada.Core.csproj",
+        "packagesPath": "C:\\Users\\A50388.ITRI\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\A50388.ITRI\\Desktop\\iAUTO.SCADA\\Scada.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\A50388.ITRI\\Desktop\\iAUTO.SCADA\\NuGet.Config",
+          "C:\\Users\\A50388.ITRI\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Progress\\Telerik UI for WinForms 2025 Q4\\Bin80\\NuGet": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.telerik.com/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.Data.SqlClient": {
+              "target": "Package",
+              "version": "[6.1.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.416/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

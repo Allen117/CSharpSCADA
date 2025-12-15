@@ -1,0 +1,6 @@
+TypeID=30
+TypeName=FlowMeter
+Nodedef(0)=40001,40009,40003,40033,40035,40033,40035,40033,40035,40033
+Nodescale(0)=105,1,105,105,105,105,105,105,105,105
+Nodename(0)=Flow rate,Flow volume,Flow velocity,,,,,,,
+NodeUnit(0)=LPM,m3,m/s,,,,,,,

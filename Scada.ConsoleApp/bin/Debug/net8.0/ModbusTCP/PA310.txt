@@ -1,0 +1,6 @@
+TypeID=30
+TypeName=PA310
+Nodedef(0)=31039,31047,31059,31083,31183,31033,31041,31053,31077,31153,31035,31043,31055,31079,31163,31037,31045,31057,31081,31173
+Nodescale(0)=105,105,105,105,105,105,105,105,105,105,105,105,105,105,105,105,105,105,105,105
+Nodename(0)= V_avg,I_avg,kW_total,o,kWh_total,Vll_ab,I_a,kW_a,o,kWh_a,Vll_bc,I_b,kW_b,o,kWh_b,Vll_ca,I_c,kW_c,o,kWh_c
+NodeUnit(0)=V,A,kW,o,kWh,V,A,kW,o,kWh,V,A,kW,o,kWh,V,A,kW,o,kWh

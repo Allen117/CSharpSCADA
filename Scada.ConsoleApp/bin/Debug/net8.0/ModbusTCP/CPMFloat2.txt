@@ -1,0 +1,6 @@
+TypeID=30
+TypeName=CPMFloat
+Nodedef(0)=428689,428697,428707,428731,428773,428689,428697,428707,428731,428773
+Nodescale(0)=154,154,181,154,154,154,154,154,154,154
+Nodename(0)=Vavg,Iavg,Pavg,o,kWhTotal,Vavg,Iavg,Pavg,o,kWhTotal
+NodeUnit(0)=V,I,W,o,kWh,V,I,W,o,kWh

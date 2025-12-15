@@ -1,0 +1,6 @@
+TypeID=30
+TypeName=PLC
+Nodedef(0)=2026,2027,2802,2803,2804,2805,2806,2807,2808,2810,2813,2814,2815,2816,2817,2818,2820,2821,2822,2824,2831,2832,2833,2834,2835,2836,3001,46321,46322,46323,46324,46325,46326,46901,47112,47142,46121,46141,46331,46011,46021,49516,49526,49515,49514,49513,49525,49524,49523,46276
+Nodescale(0)=Integer@1,Integer@1,Integer@1,Integer@1,Integer@1,Integer@1,Integer@1,Integer@1,Integer@1,Integer@1,Integer@1,Integer@1,Integer@1,Integer@1,Integer@1,Integer@1,Integer@1,Integer@1,Integer@1,Integer@1,Integer@1,Integer@1,Integer@1,Integer@1,Integer@1,Integer@1,Integer@1,Integer@0.1,Integer@0.1,Integer@0.1,Integer@0.1,Integer@0.1,Integer@0.1,Integer@1,Integer@1,Integer@1,Integer@0.1,Integer@0.1,Integer@0.1,Integer@1,Integer@1,Integer@1,Integer@1,Integer@1,Integer@1,Integer@1,Integer@1,Integer@1,Integer@1,Integer@1
+Nodename(0)=A 機故障,B 機故障,緊急開關作動,冷卻水流開關警報,冰水水流開關警報,防凍開關警報,電源保護開關警報,A 機高壓保護警報,B 機高壓保護警報,B 機過載保護警報,A 機吐出線圈保護警報,B 機吐出線圈保護警報,A 機低壓保護警報,B 機低壓保護警報,A 機油壓差保護警報,B 機油壓差保護警報,保養時數到達,變頻器異常,油位保護,冷媒低溫異常警報,冰水回水感溫棒故障警報,冰水出水感溫棒故障警報,冷卻回水感溫棒故障警報,冷卻出水感溫棒故障警報,冷媒低溫感溫棒故障警報,油槽溫度感溫棒故障警報,遠控信號,冰水回水溫度,冰水出水溫度,冷卻水回水溫度,冷卻水出水溫度,冷媒低溫溫度,油槽溫度,運轉電壓,A 機運轉電流,B 機運轉電流,冷凝壓力,蒸發壓力,冰水溫度設定,A 機運轉狀況,B 機運轉狀況,A 機啟動次數,B 機啟動次數,A 機運轉時間(天),A 機運轉時間(時),A 機運轉時間(分),B 機運轉時間(天),B 機運轉時間(時),B 機運轉時間(分),變頻器輸出頻率
+NodeUnit(0)=,,,,,,,,,,,,,,,,,,,,,,,,,,,C,C,C,C,C,C,V,A,A,KG,KG,C,,,,,天,時,分,天,時,分,HZ
