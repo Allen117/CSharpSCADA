@@ -131,3 +131,4 @@ C:\Users\A50388.ITRI\Desktop\iAUTO.SCADA\Scada.ConsoleApp\obj\Debug\net8.0\refin
 C:\Users\A50388.ITRI\Desktop\iAUTO.SCADA\Scada.ConsoleApp\obj\Debug\net8.0\Scada.ConsoleApp.pdb
 C:\Users\A50388.ITRI\Desktop\iAUTO.SCADA\Scada.ConsoleApp\obj\Debug\net8.0\Scada.ConsoleApp.genruntimeconfig.cache
 C:\Users\A50388.ITRI\Desktop\iAUTO.SCADA\Scada.ConsoleApp\obj\Debug\net8.0\ref\Scada.ConsoleApp.dll
+C:\Users\A50388.ITRI\Desktop\iAUTO.SCADA\Scada.ConsoleApp\bin\Debug\net8.0\NModbus.dll

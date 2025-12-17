@@ -416,6 +416,19 @@
           }
         }
       },
+      "NModbus/3.0.81": {
+        "type": "package",
+        "compile": {
+          "lib/net6.0/NModbus.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net6.0/NModbus.dll": {
+            "related": ".xml"
+          }
+        }
+      },
       "System.ClientModel/1.5.1": {
         "type": "package",
         "dependencies": {
@@ -1231,6 +1244,27 @@
         "microsoft.sqlserver.server.nuspec"
       ]
     },
+    "NModbus/3.0.81": {
+      "sha512": "EzKEp7CHD8ErBL36iMts+6IrZZ9FEqllaD7Y5XzhoRjlxt5yXRughQ1bxPs99QFYFkW5xfkANB0Qs1gAmYGP8Q==",
+      "type": "package",
+      "path": "nmodbus/3.0.81",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "LICENSE.txt",
+        "README.md",
+        "lib/net46/NModbus.dll",
+        "lib/net46/NModbus.xml",
+        "lib/net6.0/NModbus.dll",
+        "lib/net6.0/NModbus.xml",
+        "lib/netstandard1.3/NModbus.dll",
+        "lib/netstandard1.3/NModbus.xml",
+        "lib/netstandard2.0/NModbus.dll",
+        "lib/netstandard2.0/NModbus.xml",
+        "nmodbus.3.0.81.nupkg.sha512",
+        "nmodbus.nuspec"
+      ]
+    },
     "System.ClientModel/1.5.1": {
       "sha512": "k2jKSO0X45IqhVOT9iQB4xralNN9foRQsRvXBTyRpAVxyzCJlG895T9qYrQWbcJ6OQXxOouJQ37x5nZH5XKK+A==",
       "type": "package",
@@ -1594,7 +1628,8 @@
   },
   "projectFileDependencyGroups": {
     "net8.0": [
-      "Microsoft.Data.SqlClient >= 6.1.3"
+      "Microsoft.Data.SqlClient >= 6.1.3",
+      "NModbus >= 3.0.81"
     ]
   },
   "packageFolders": {
@@ -1647,6 +1682,10 @@
           "Microsoft.Data.SqlClient": {
             "target": "Package",
             "version": "[6.1.3, )"
+          },
+          "NModbus": {
+            "target": "Package",
+            "version": "[3.0.81, )"
           }
         },
         "imports": [

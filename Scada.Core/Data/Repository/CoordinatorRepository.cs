@@ -34,7 +34,7 @@ namespace Scada.Core.Data.Repositories
                 mobjCoordinator.intConnPort = Convert.ToInt32(r["ConnPort"]);
                 mobjCoordinator.strConnSettings = r["ConnSettings"].ToString();
                 mobjCoordinator.intBufferSize = Convert.ToInt16(r["BufferSize"]);
-                mobjCoordinator.intModbusID = Convert.ToInt32(r["u32MACAddressHi"]);
+                mobjCoordinator.intModbusID = Convert.ToByte(r["u32MACAddressHi"]);
 
                 mobjCoordinator.lngMac = mlngMAC;
                 mobjCoordinator.strMAC = mstrMAC;

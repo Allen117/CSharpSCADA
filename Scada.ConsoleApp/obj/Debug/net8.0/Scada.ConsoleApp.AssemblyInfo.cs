@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Scada.ConsoleApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+badf332213a944e8cae3189ea0692a5fb57a022f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6995c392973412c871b93e1a90a78e3230c0459f")]
 [assembly: System.Reflection.AssemblyProductAttribute("Scada.ConsoleApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Scada.ConsoleApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

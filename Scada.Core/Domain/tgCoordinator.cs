@@ -50,8 +50,8 @@
         public byte[] bytThermoConModbusData, bytMCommand, bytMLength;
         public byte bytPacketStart, bytconstDataUbound, bytTypeIDPos;
 
-        public int intModbusID, intModbusPacketMax, intModbusIIndex;
-
+        public Byte intModbusID,  intModbusIIndex;
+        public int intModbusPacketMax;
         public float sngFan, sngTemp_RA, sngTemp_SP, sngTemp_Eff, sngH, sngC, sngP, sngMode, sngTempSensorMode;
 
         public byte bytFanRight, bytTemp_RARight, bytTemp_SPRight, bytTemp_EffRight, bytHRight, bytCRight, bytPRight, bytModeRight;

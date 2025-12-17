@@ -5,7 +5,7 @@ VisualStudioVersion = 17.11.35327.3
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Scada.Core", "Scada.Core\Scada.Core.csproj", "{4DAB0504-93B7-46AB-83BA-2BD49171A034}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Scada.ConsoleApp", "Scada.ConsoleApp\Scada.ConsoleApp.csproj", "{0B7FA91A-6AB1-4806-B1B0-A58700ED9F43}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Scada.ConsoleApp", "Scada.ConsoleApp\Scada.ConsoleApp.csproj", "{0B7FA91A-6AB1-4806-B1B0-A58700ED9F43}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
