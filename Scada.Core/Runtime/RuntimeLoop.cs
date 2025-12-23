@@ -171,6 +171,7 @@ namespace Scada.Core.Runtime
                         {
                             _logger.Warn($"[控制失敗] 找不到設備 MAC: {targetMac}");
                             continue;
+
                         }
 
                         // 3. 根據 SequenceIndex 尋找對應的 AddressProfile
